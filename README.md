@@ -54,6 +54,10 @@ Example `tagPlayer($item["KICK ME" sign],'123');` would put a kick me sign on pl
 
 Shoots a marshmallow at a player if you have a s'more gun and a marshmallow.
 
+`sendHolidayFun(string player, string outermessage, string innermessage)`
+
+Sends holiday fun, in a plain brown wrapper, to someone. Most likely causing them to get beat up.
+
 ## Messages to other players through items
 ### sendHeart(string heartColor, string player, string message1, string message2)
 
